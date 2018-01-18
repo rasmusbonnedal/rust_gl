@@ -1,0 +1,10 @@
+[package]
+name = "rust_gl"
+version = "0.1.0"
+authors = ["Rasmus Bonnedal <rasmus.bonnedal@gmail.com>"]
+
+[dependencies]
+glium = "*"
+cgmath = "*"
+time = "*"
+image = "*"
